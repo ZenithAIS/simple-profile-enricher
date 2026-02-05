@@ -1,0 +1,5 @@
+{
+  "name": "LinkedIn Ethical Scraper Generator",
+  "description": "A sophisticated tool for generating ethical, Python-based LinkedIn profile scraping scripts using Selenium with features like user-agent rotation and randomized delays.",
+  "requestFramePermissions": []
+}
